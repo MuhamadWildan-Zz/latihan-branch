@@ -8,3 +8,4 @@ Latihan untuk Dicoding
 
 SSSS
 DDDD
+FFFF
